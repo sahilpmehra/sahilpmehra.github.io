@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sahil Mehra",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Sahil’s Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "My Main Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project1/index.html",
+    "href": "projects/project1/index.html",
+    "title": "My Main Project",
+    "section": "",
+    "text": "lorem ipsum\n\n\nrandom shit"
+  },
+  {
+    "objectID": "projects/project1/index.html#subheader",
+    "href": "projects/project1/index.html#subheader",
+    "title": "My Main Project",
+    "section": "",
+    "text": "random shit"
+  }
+]
